@@ -1,3 +1,5 @@
+This repo is a test case code to reproduce issue reported in https://github.com/balderdashy/sails-mysql/issues/327
+
 ### Problem description
 
 ``populate()`` returns empty array of child objects in ONE-to-MANY association.
