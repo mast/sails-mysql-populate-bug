@@ -1,0 +1,10 @@
+{
+    "name": "",
+    "description": "",
+    "version": "0.0.1",
+    "dependencies":
+    {
+        "waterline": "0.12.2",
+        "sails-mysql": "0.12.2"
+    }
+}
